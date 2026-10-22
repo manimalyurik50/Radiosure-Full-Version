@@ -239,4 +239,4 @@ This repository serves as the official landing page for RadioSure. The software 
 **Get the most recent version of RadioSure today!**
 
 ---
-**Last updated:** 2026-10-21 21:08:59 UTC
+**Last updated:** 2026-10-22 00:22:31 UTC
